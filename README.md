@@ -1,5 +1,5 @@
 # Can I Go Outside?
-Official advice for your DMS :)
+Official advice for your DMs 😉
 
 This messenger bot tells the user where they can go, and what regulations they need to follow.
 
